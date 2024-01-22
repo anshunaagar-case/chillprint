@@ -2,6 +2,34 @@
   "name": "chillprint",
   "version": "0.1.0",
   "private": true,
+  "author": "Anshu Naagar",
+  "creators": [
+    {
+      "name": "Anshu Naagar.",
+      "role": "Application Engineer",
+      "url": "https://github.com/i-ice-bear"
+    },
+    {
+      "name": "Anshika chaudhary",
+      "role": "Startup Owner",
+      "url": "https://instagram.com/_ursanna_",
+      "members": [
+        {
+          "name": "Yash Dhiman.",
+          "role": "Startup Owner",
+          "url": ""
+        },
+        {
+          "name": "Isha Ramolaa",
+          "role": "Startup Owner",
+          "url": ""
+        }
+      ]
+    }
+  ],
+  "license": "MIT",
+  "main": "next.config.js",
+  "homepage": "https://github.com/i-ice-bear/chillprint",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
